@@ -1,5 +1,5 @@
 # training-html5css3-team
-<p>Esse projeto teve como objetivo, ensinar noções básicas de HTML5 e CSS3 para o time da empresa ao qual sou desenvolvedora atualmente.</p>
+<p>Esse projeto teve como objetivo, ensinar noções básicas de HTML5 e CSS3 para o time com interesse da empresa que atuo como front-end.</p>
 <p>O mesmo, no futuro será adaptado para uma aplicação em ReactJs, no momento será uma To Do List em HTML/CSSS.</p>
 
 
